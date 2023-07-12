@@ -1,0 +1,3 @@
+/home/root/usr/src/jetson_multimedia_api/argus/samples/utils/buildrelease/CMakeFiles/argussampleutils.dir
+/home/root/usr/src/jetson_multimedia_api/argus/samples/utils/buildrelease/CMakeFiles/edit_cache.dir
+/home/root/usr/src/jetson_multimedia_api/argus/samples/utils/buildrelease/CMakeFiles/rebuild_cache.dir
